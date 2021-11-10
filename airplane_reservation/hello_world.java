@@ -34,6 +34,42 @@ public class hello_world {
             System.out.println("Try again.");
         }
 
-    
+        if (choice == 1){
+            System.out.println("The Available Destinations in this ONE_WAY_TRIP are:-");
+            System.out.println("1. ANDAMAN AND NICOBAR ISLANDS");
+            System.out.println("1. ANDAMAN AND NICOBAR ISLANDS");
+            System.out.println("1. ANDAMAN AND NICOBAR ISLANDS");
+            System.out.println("1. ANDAMAN AND NICOBAR ISLANDS");
+            System.out.println("1. ANDAMAN AND NICOBAR ISLANDS");
+            System.out.println("1. ANDAMAN AND NICOBAR ISLANDS");
+            System.out.println("1. ANDAMAN AND NICOBAR ISLANDS");
+            System.out.println("1. ANDAMAN AND NICOBAR ISLANDS");
+            System.out.println("1. ANDAMAN AND NICOBAR ISLANDS");
+            System.out.println("1. ANDAMAN AND NICOBAR ISLANDS");
+            System.out.println("1. ANDAMAN AND NICOBAR ISLANDS");
+            System.out.println("1. ANDAMAN AND NICOBAR ISLANDS");
+            System.out.println("1. ANDAMAN AND NICOBAR ISLANDS");
+            System.out.println("1. ANDAMAN AND NICOBAR ISLANDS");
+            System.out.println("1. ANDAMAN AND NICOBAR ISLANDS");
+            System.out.println("1. ANDAMAN AND NICOBAR ISLANDS");
+            System.out.println("1. ANDAMAN AND NICOBAR ISLANDS");
+            System.out.println("1. ANDAMAN AND NICOBAR ISLANDS");
+            System.out.println("1. ANDAMAN AND NICOBAR ISLANDS");
+            System.out.println("1. ANDAMAN AND NICOBAR ISLANDS");
+            System.out.println("1. ANDAMAN AND NICOBAR ISLANDS");
+            System.out.println("1. ANDAMAN AND NICOBAR ISLANDS");
+            System.out.println("1. ANDAMAN AND NICOBAR ISLANDS");
+            System.out.println("1. ANDAMAN AND NICOBAR ISLANDS");
+            System.out.println("1. ANDAMAN AND NICOBAR ISLANDS");
+            System.out.println("1. ANDAMAN AND NICOBAR ISLANDS");
+            System.out.println("1. ANDAMAN AND NICOBAR ISLANDS");
+            System.out.println("1. ANDAMAN AND NICOBAR ISLANDS");
+            System.out.println("1. ANDAMAN AND NICOBAR ISLANDS");
+            System.out.println("1. ANDAMAN AND NICOBAR ISLANDS");
+            System.out.println("1. ANDAMAN AND NICOBAR ISLANDS");
+            System.out.println("1. ANDAMAN AND NICOBAR ISLANDS");
+            System.out.println("1. ANDAMAN AND NICOBAR ISLANDS");
+            System.out.println("1. ANDAMAN AND NICOBAR ISLANDS");
+            System.out.println("1. ANDAMAN AND NICOBAR ISLANDS");
     }
 }
